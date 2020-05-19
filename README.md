@@ -1,16 +1,8 @@
-## Projet Big Data
+## Big Data Project with Spark
 
-1. Présentation des données 
+# Project description
 
+The objective of this project is to create a **recommendation** engine on the Yelp dataset *(restaurant rating)*. First exploratory phase, then data processing. Finally, creation of the recommendation engine thanks to an **ALS model**.
 
-2. Nettoyage des données 
-
-
-3. Modélisation avec Spark ML (ML Flow) 
-
-
-    * Utilisation d'un modèle ALS
-
-
-
-4. Restitution 
+# Baseline Model Results
+The baseline ALS model has a score of **0.65** on the test set.
